@@ -1,0 +1,5 @@
+tmp/
+calculator sci/numerical-methods-class-diagram.drawio
+calculator sci/dist/*.pdf
+calculator sci/__pycache__/
+output/pdf/numerical-methods-calculator-report.pdf
